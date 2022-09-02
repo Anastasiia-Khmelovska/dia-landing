@@ -4,4 +4,4 @@ The landing is adaptive to different screen extensions, has a stylish design,
 contains a swiper with slides, burger menu, links, animations and a form to fill.
 
 
-    - [DEMO LINK](https://anastasiia-khmelovska.github.io/dia-landing/)
+   - [DEMO LINK](https://anastasiia-khmelovska.github.io/dia-landing/)
